@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "321C47D3-40B2-40C0-8276-373A5B58E2C8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A37E97E2-EF30-4DAB-95D7-49C70CB0497C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "processSegmentationRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCCFB66D-EDF0-43D5-9F5B-DB8B71F82540"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "setupVisionModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1431F27F-791D-4BCB-B8D6-383B28A6FD01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "setupVisionModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49981703-FDDB-4798-97D4-DD99D5FCE51B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD9D6164-2E94-4ABA-B90B-AFB51F328B35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9E53079-78A4-4212-9CCC-D6AD87BFD5CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "processSegmentationRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F5E50BF-1D6A-4BAB-8EE3-D0D3C9477BE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "setupVisionModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F5E50BF-1D6A-4BAB-8EE3-D0D3C9477BE5 - 69130c70d20f90aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SemSegiPhone.ViewController.setupVisionModel() -&gt; ()"
+                  moduleName = "SemSegiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edadasko/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/ESPNetv2-COREML/SemSegiPhone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "3F5E50BF-1D6A-4BAB-8EE3-D0D3C9477BE5 - 53aa946e1e466c26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SemSegiPhone.ViewController.setupVisionModel() -&gt; ()"
+                  moduleName = "SemSegiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edadasko/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/ESPNetv2-COREML/SemSegiPhone/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC346065-F21E-46D6-AB20-B974BE6C1D3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SemSegiPhone/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "processSegmentationRequest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E35A9A9-2BDD-4308-A633-7CBB8CAEC2C7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0373D09-4AC4-40B6-93B9-D623966C3926"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8630A858-CCCD-412A-BFAE-753DE0DE5D88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CFC86E0-24F8-4E0F-813F-AC2B2434BA71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6781D012-064F-428A-9342-B5B9DAF8923D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3030E098-1333-46A8-A253-E46622D88068"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "predictions(inputs:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21FE8296-1A9E-4920-BD44-5CF05372CB17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "load(contentsOf:configuration:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21FE8296-1A9E-4920-BD44-5CF05372CB17 - f8a8e38bc5cff221"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of static SemSegiPhone.unet.load(contentsOf: Foundation.URL, configuration: __C.MLModelConfiguration, completionHandler: (Swift.Result&lt;SemSegiPhone.unet, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SemSegiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edadasko/Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "21FE8296-1A9E-4920-BD44-5CF05372CB17 - 4f362940882bff7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static SemSegiPhone.unet.load(contentsOf: Foundation.URL, configuration: __C.MLModelConfiguration, completionHandler: (Swift.Result&lt;SemSegiPhone.unet, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SemSegiPhone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edadasko/Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "188"
+                  endingLineNumber = "188"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1209A0F1-040D-4EB4-9C70-B74D2CB7FD86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "load(contentsOf:configuration:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A821EB1-4268-4647-9CB1-29907E63C9AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D38AA913-1F06-4DD4-AAA1-068F70159AAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/unet/unet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "unet"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA443C53-20E1-49D2-BE65-4E538406C6E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(input1With:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CD3EDCA-10F5-4516-997E-5DA251BFC83A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "init(input1At:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "673FC377-D466-45DC-9C71-A07C0642ED9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setInput1(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5900029-BBE1-4245-9C42-7C4F4AAB5874"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "setInput1(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AAADB2E-38F4-44DD-85A3-BCDEC4D17E0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "urlOfModelInThisBundle"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E38487E-D1C7-431E-9B01-C3728AA17C1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "init(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8190D2F2-F7A8-4742-B2EF-6E1FE93D7FC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0376B610-96E3-4D95-A6BF-AD8FC6AD6AB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "init(contentsOf:configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C063C401-3071-4CED-A4FF-F33B4F6661AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "load(configuration:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60BE52F2-E575-4C90-8D48-F1FE3A40762B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "load(contentsOf:configuration:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28941D69-4482-4F5B-9803-48EA234CD81B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "prediction(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3379FA51-5CC8-4A37-99B4-A7D5BE7A1256"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "prediction(input:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A69F5F-1705-4984-A609-3B923021E5B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "prediction(input1:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11699050-CE44-4101-859D-5E4A86ECA196"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "image_output"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7731F80-438F-4FEA-8FDA-EAFB3A990F6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "featureNames"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ED291A4-739A-4C27-927A-EBE11C39A5BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "featureValue(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A71CE3B-F10F-4B55-AD62-42322C8E969D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "init(image_output:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "816CA114-944A-4747-AB78-772DA9FC4795"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "predictions(inputs:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43E2AC33-58A2-44FB-967E-2720C8383CBF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SemSegiPhone-dkcxddfarfsjjjdeawqeeeznegsc/Build/Intermediates.noindex/SemSegiPhone.build/Debug-iphoneos/SemSegiPhone.build/DerivedSources/CoreMLGenerated/ugnet/ugnet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "init(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
